@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-car/static/css/main.ddcc5809.css",
+    "main.js": "/react-car/static/js/main.bda84731.js",
+    "index.html": "/react-car/index.html",
+    "main.ddcc5809.css.map": "/react-car/static/css/main.ddcc5809.css.map",
+    "main.bda84731.js.map": "/react-car/static/js/main.bda84731.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddcc5809.css",
+    "static/js/main.bda84731.js"
+  ]
+}
